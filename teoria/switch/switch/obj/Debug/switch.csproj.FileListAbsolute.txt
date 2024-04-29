@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\bin\Debug\@switch.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\bin\Debug\@switch.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\bin\Debug\@switch.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\obj\Debug\@switch.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\switch\switch\obj\Debug\@switch.pdb

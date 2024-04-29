@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06EFE3F2-9323-4506-A4C9-6C8022F90533}|switch\\switch.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\switch\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EFE3F2-9323-4506-A4C9-6C8022F90533}|switch\\switch.csproj|solutionrelative:switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\switch\\switch\\Program.cs",
+              "RelativeDocumentMoniker": "switch\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\switch\\switch\\Program.cs",
+              "RelativeToolTip": "switch\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:58:01.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

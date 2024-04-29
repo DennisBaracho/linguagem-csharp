@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\arrays\arrays\obj\Debug\arrays.pdb

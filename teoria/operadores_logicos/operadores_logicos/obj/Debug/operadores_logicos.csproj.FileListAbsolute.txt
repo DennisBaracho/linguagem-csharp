@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.pdb

@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\bin\Debug\capturando_entrada.exe.config
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\bin\Debug\capturando_entrada.exe
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\bin\Debug\capturando_entrada.pdb
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\obj\Debug\capturando_entrada.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\obj\Debug\capturando_entrada.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\obj\Debug\capturando_entrada.exe
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\capturando_entrada\capturando_entrada\obj\Debug\capturando_entrada.pdb

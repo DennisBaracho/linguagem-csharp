@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\estruturas_de_repeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559764F0-D4DE-4A81-9F1A-F8189DC46D15}|estruturas_de_repeticao\\estruturas_de_repeticao.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\estruturas_de_repeticao\\estruturas_de_repeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559764F0-D4DE-4A81-9F1A-F8189DC46D15}|estruturas_de_repeticao\\estruturas_de_repeticao.csproj|solutionrelative:estruturas_de_repeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\estruturas_de_repeticao\\estruturas_de_repeticao\\Program.cs",
+              "RelativeDocumentMoniker": "estruturas_de_repeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\estruturas_de_repeticao\\estruturas_de_repeticao\\Program.cs",
+              "RelativeToolTip": "estruturas_de_repeticao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:39:29.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

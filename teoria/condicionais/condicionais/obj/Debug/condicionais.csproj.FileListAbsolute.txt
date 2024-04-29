@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\bin\Debug\condicionais.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\bin\Debug\condicionais.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\bin\Debug\condicionais.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\obj\Debug\condicionais.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\obj\Debug\condicionais.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\condicionais\condicionais\obj\Debug\condicionais.pdb

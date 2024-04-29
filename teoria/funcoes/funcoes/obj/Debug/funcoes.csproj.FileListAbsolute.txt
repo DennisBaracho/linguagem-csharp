@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\bin\Debug\funcoes.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\bin\Debug\funcoes.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\bin\Debug\funcoes.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\obj\Debug\funcoes.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\obj\Debug\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\obj\Debug\funcoes.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\funcoes\funcoes\obj\Debug\funcoes.pdb

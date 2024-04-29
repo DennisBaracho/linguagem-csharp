@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\obj\Debug\estruturas_de_repeticao.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\obj\Debug\estruturas_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\bin\Debug\estruturas_de_repeticao.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\bin\Debug\estruturas_de_repeticao.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\bin\Debug\estruturas_de_repeticao.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\obj\Debug\estruturas_de_repeticao.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\estruturas_de_repeticao\estruturas_de_repeticao\obj\Debug\estruturas_de_repeticao.pdb

@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\bin\Debug\operadores_aritmeticos.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\bin\Debug\operadores_aritmeticos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\bin\Debug\operadores_aritmeticos.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\obj\Debug\operadores_aritmeticos.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\obj\Debug\operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\obj\Debug\operadores_aritmeticos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\operadores_aritmeticos\operadores_aritmeticos\obj\Debug\operadores_aritmeticos.pdb
