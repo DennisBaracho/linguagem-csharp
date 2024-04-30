@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\bin\Debug\ex001.exe.config
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\bin\Debug\ex001.exe
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\bin\Debug\ex001.pdb
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\obj\Debug\ex001.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\obj\Debug\ex001.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\obj\Debug\ex001.exe
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\ex001\ex001\obj\Debug\ex001.pdb
