@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\bin\Debug\ex008.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\bin\Debug\ex008.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\bin\Debug\ex008.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\obj\Debug\ex008.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\obj\Debug\ex008.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\obj\Debug\ex008.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\ex008\ex008\obj\Debug\ex008.pdb

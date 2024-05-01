@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace ex003
 {
-    /* 3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
-       final uma mensagem.
-       Ex:
-       Nome do Funcionário: Maria do Carmo
-       Salário: 1850,45
-       O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho. */
+    // Exercício 3
+    // Lista de exercícios do Curso em Vídeo de Algoritmos em VisualG do professor Gustavo Guanabara.
+    // Autor da resolução: Dennis Baracho.
+    // Função: Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.
     internal class Program
     {
         static void Main(string[] args)

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\exercicios\\ex003\\",
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\ex003\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAC2CFB5-EC1E-4913-BD7B-393531A129AB}|ex003\\ex003.csproj|c:\\users\\denise baracho\\documents\\estudos\\linguagem c#\\exercicios\\ex003\\ex003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAC2CFB5-EC1E-4913-BD7B-393531A129AB}|ex003\\ex003.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\exercicios\\ex003\\ex003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAC2CFB5-EC1E-4913-BD7B-393531A129AB}|ex003\\ex003.csproj|solutionrelative:ex003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\exercicios\\ex003\\ex003\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\ex003\\ex003\\Program.cs",
               "RelativeDocumentMoniker": "ex003\\Program.cs",
-              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\exercicios\\ex003\\ex003\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\ex003\\ex003\\Program.cs",
               "RelativeToolTip": "ex003\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T19:51:01.411Z",
               "EditorCaption": ""
