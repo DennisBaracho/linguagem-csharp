@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\bin\Debug\ex016.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\bin\Debug\ex016.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\bin\Debug\ex016.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\obj\Debug\ex016.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\obj\Debug\ex016.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\obj\Debug\ex016.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex016\ex016\obj\Debug\ex016.pdb

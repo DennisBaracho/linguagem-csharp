@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\bin\Debug\ex012.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\bin\Debug\ex012.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\bin\Debug\ex012.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\obj\Debug\ex012.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\obj\Debug\ex012.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\obj\Debug\ex012.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\ex012\ex012\obj\Debug\ex012.pdb
