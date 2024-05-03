@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}|classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}|classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos.csproj|solutionrelative:classes_atributos_metodos_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}|classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}|classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos.csproj|solutionrelative:classes_atributos_metodos_objetos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\Pessoa.cs",
+              "RelativeDocumentMoniker": "classes_atributos_metodos_objetos\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\Pessoa.cs",
+              "RelativeToolTip": "classes_atributos_metodos_objetos\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:05:12.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\Program.cs",
+              "RelativeDocumentMoniker": "classes_atributos_metodos_objetos\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\classes_atributos_metodos_objetos\\classes_atributos_metodos_objetos\\Program.cs",
+              "RelativeToolTip": "classes_atributos_metodos_objetos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:03:15.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

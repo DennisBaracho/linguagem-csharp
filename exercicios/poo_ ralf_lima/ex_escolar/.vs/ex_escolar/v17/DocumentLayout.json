@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C3E296-5D28-4380-AAEF-DAE0DF4390D1}|ex_escolar\\ex_escolar.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C3E296-5D28-4380-AAEF-DAE0DF4390D1}|ex_escolar\\ex_escolar.csproj|solutionrelative:ex_escolar\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C3E296-5D28-4380-AAEF-DAE0DF4390D1}|ex_escolar\\ex_escolar.csproj|C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C3E296-5D28-4380-AAEF-DAE0DF4390D1}|ex_escolar\\ex_escolar.csproj|solutionrelative:ex_escolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\Aluno.cs",
+              "RelativeDocumentMoniker": "ex_escolar\\Aluno.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\Aluno.cs",
+              "RelativeToolTip": "ex_escolar\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:45:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\Program.cs",
+              "RelativeDocumentMoniker": "ex_escolar\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_escolar\\ex_escolar\\Program.cs",
+              "RelativeToolTip": "ex_escolar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:45:21.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

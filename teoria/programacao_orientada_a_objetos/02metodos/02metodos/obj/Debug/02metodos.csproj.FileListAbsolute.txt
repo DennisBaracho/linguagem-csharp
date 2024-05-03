@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\bin\Debug\02metodos.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\bin\Debug\02metodos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\bin\Debug\02metodos.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\obj\Debug\02metodos.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\obj\Debug\02metodos.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\obj\Debug\02metodos.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\02metodos\02metodos\obj\Debug\02metodos.pdb

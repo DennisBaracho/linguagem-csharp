@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conceitos", "classes_atributos_metodos_objetos\conceitos.csproj", "{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DBBE29-24F3-46D4-ADD7-EE4A09A2F3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D58C60E-897C-40ED-B1A2-4EBA390228B6}
+	EndGlobalSection
+EndGlobal

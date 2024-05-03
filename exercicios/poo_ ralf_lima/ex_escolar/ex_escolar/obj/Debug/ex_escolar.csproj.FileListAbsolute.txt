@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\bin\Debug\ex_escolar.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\bin\Debug\ex_escolar.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\bin\Debug\ex_escolar.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\obj\Debug\ex_escolar.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\obj\Debug\ex_escolar.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\obj\Debug\ex_escolar.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_escolar\ex_escolar\obj\Debug\ex_escolar.pdb

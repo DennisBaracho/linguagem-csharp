@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\bin\Debug\ex_imc.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\bin\Debug\ex_imc.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\bin\Debug\ex_imc.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\obj\Debug\ex_imc.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\obj\Debug\ex_imc.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\obj\Debug\ex_imc.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\exercicios\poo-ralf-lima\ex_imc\ex_imc\obj\Debug\ex_imc.pdb
