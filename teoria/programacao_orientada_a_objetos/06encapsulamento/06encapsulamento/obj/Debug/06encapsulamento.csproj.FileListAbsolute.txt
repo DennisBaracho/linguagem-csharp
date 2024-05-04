@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\bin\Debug\06encapsulamento.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\bin\Debug\06encapsulamento.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\bin\Debug\06encapsulamento.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\obj\Debug\06encapsulamento.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\obj\Debug\06encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\obj\Debug\06encapsulamento.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\06encapsulamento\06encapsulamento\obj\Debug\06encapsulamento.pdb

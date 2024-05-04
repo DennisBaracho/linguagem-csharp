@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\bin\Debug\09this.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\bin\Debug\09this.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\bin\Debug\09this.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\obj\Debug\09this.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\obj\Debug\09this.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\obj\Debug\09this.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\09this\09this\obj\Debug\09this.pdb

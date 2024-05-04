@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\",
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|solutionrelative:ex_imc\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5601D10F-F077-4DB8-8D81-8EBE6D29FBD7}|ex_imc\\ex_imc.csproj|solutionrelative:ex_imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\Pessoa.cs",
               "RelativeDocumentMoniker": "ex_imc\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\Pessoa.cs",
               "RelativeToolTip": "ex_imc\\Pessoa.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T15:03:19.967Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\Program.cs",
               "RelativeDocumentMoniker": "ex_imc\\Program.cs",
-              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo-ralf-lima\\ex_imc\\ex_imc\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\exercicios\\poo_ ralf_lima\\ex_imc\\ex_imc\\Program.cs",
               "RelativeToolTip": "ex_imc\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:00:16.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:00:16.28Z"
             }
           ]
         }

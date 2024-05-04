@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DE87C5A3-31FC-41CB-8F76-1250A0F87909}|05acesso\\05acesso.csproj|solutionrelative:05acesso\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE87C5A3-31FC-41CB-8F76-1250A0F87909}|05acesso\\05acesso.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\05acesso\\05acesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE87C5A3-31FC-41CB-8F76-1250A0F87909}|05acesso\\05acesso.csproj|C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\05acesso\\05acesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE87C5A3-31FC-41CB-8F76-1250A0F87909}|05acesso\\05acesso.csproj|solutionrelative:05acesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "05acesso\\Acesso.cs",
               "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\05acesso\\05acesso\\Acesso.cs",
               "RelativeToolTip": "05acesso\\Acesso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T16:25:31.241Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -41,7 +42,7 @@
               "RelativeDocumentMoniker": "05acesso\\Program.cs",
               "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\05acesso\\05acesso\\Program.cs",
               "RelativeToolTip": "05acesso\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T16:25:13.494Z",
               "EditorCaption": ""

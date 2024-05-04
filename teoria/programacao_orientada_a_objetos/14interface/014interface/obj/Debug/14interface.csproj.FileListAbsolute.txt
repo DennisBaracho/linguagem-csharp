@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\bin\Debug\014interface.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\bin\Debug\014interface.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\bin\Debug\014interface.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\obj\Debug\14interface.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\obj\Debug\14interface.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\obj\Debug\014interface.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\014interface\014interface\obj\Debug\014interface.pdb

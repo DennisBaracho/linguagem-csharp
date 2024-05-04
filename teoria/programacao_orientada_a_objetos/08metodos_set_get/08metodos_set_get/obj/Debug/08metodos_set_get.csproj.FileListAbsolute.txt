@@ -1,0 +1,7 @@
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\bin\Debug\08metodos_set_get.exe.config
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\bin\Debug\08metodos_set_get.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\bin\Debug\08metodos_set_get.pdb
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\obj\Debug\08metodos_set_get.csproj.AssemblyReference.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\obj\Debug\08metodos_set_get.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\obj\Debug\08metodos_set_get.exe
+C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\programacao_orientada_a_objetos\08metodos_set_get\08metodos_set_get\obj\Debug\08metodos_set_get.pdb

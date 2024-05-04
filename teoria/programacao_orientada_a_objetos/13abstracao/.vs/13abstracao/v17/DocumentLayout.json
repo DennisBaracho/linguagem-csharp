@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|solutionrelative:13abstracao\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\padrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|solutionrelative:13abstracao\\padrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|solutionrelative:13abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C0BA50-7A00-4A0D-A55E-EEA23E4BB879}|13abstracao\\13abstracao.csproj|solutionrelative:13abstracao\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Padrao.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\Padrao.cs",
+              "RelativeDocumentMoniker": "13abstracao\\Padrao.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\Padrao.cs",
+              "RelativeToolTip": "13abstracao\\Padrao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:54:23.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "13abstracao\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\PessoaJuridica.cs",
+              "RelativeToolTip": "13abstracao\\PessoaJuridica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:54:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "13abstracao\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\PessoaFisica.cs",
+              "RelativeToolTip": "13abstracao\\PessoaFisica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:54:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "13abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\13abstracao\\13abstracao\\Program.cs",
+              "RelativeToolTip": "13abstracao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:53:45.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

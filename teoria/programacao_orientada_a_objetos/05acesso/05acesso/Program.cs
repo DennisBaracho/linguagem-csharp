@@ -10,6 +10,7 @@ namespace _05acesso
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto();
         }
     }
 }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F32D4329-A0B8-46BF-A329-D484F8F6C9DC}|12estatico\\12estatico.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32D4329-A0B8-46BF-A329-D484F8F6C9DC}|12estatico\\12estatico.csproj|solutionrelative:12estatico\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32D4329-A0B8-46BF-A329-D484F8F6C9DC}|12estatico\\12estatico.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32D4329-A0B8-46BF-A329-D484F8F6C9DC}|12estatico\\12estatico.csproj|solutionrelative:12estatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exemplo.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\Exemplo.cs",
+              "RelativeDocumentMoniker": "12estatico\\Exemplo.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\Exemplo.cs",
+              "RelativeToolTip": "12estatico\\Exemplo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:13:45.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\Program.cs",
+              "RelativeDocumentMoniker": "12estatico\\Program.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\programacao_orientada_a_objetos\\12estatico\\12estatico\\Program.cs",
+              "RelativeToolTip": "12estatico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:13:16.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
