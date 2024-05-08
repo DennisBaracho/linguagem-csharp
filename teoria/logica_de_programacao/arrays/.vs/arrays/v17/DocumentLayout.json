@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\arrays\\",
+  "WorkspaceRootPath": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\teoria\\logica_de_programacao\\arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C6E644-402F-4F9E-92B2-BAFD30086A87}|arrays\\arrays.csproj|c:\\users\\denise baracho\\documents\\github\\linguagem-csharp\\teoria\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C6E644-402F-4F9E-92B2-BAFD30086A87}|arrays\\arrays.csproj|c:\\users\\dennis\\documents\\github\\linguagem-csharp\\teoria\\logica_de_programacao\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C6E644-402F-4F9E-92B2-BAFD30086A87}|arrays\\arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\arrays\\arrays\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\teoria\\logica_de_programacao\\arrays\\arrays\\Program.cs",
               "RelativeDocumentMoniker": "arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\GitHub\\linguagem-csharp\\teoria\\arrays\\arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\teoria\\logica_de_programacao\\arrays\\arrays\\Program.cs",
               "RelativeToolTip": "arrays\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T15:02:06.75Z",
               "EditorCaption": ""
