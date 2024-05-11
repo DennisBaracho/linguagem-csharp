@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\exercicios\\algoritmos_cursoemvideo\\ex027\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF6EA7-18F7-4C9E-A349-3FDE1BE97982}|ex027\\ex027.csproj|c:\\users\\dennis\\documents\\github\\linguagem-csharp\\exercicios\\algoritmos_cursoemvideo\\ex027\\ex027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAF6EA7-18F7-4C9E-A349-3FDE1BE97982}|ex027\\ex027.csproj|solutionrelative:ex027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\exercicios\\algoritmos_cursoemvideo\\ex027\\ex027\\Program.cs",
+              "RelativeDocumentMoniker": "ex027\\Program.cs",
+              "ToolTip": "C:\\Users\\DENNIS\\Documents\\GitHub\\linguagem-csharp\\exercicios\\algoritmos_cursoemvideo\\ex027\\ex027\\Program.cs",
+              "RelativeToolTip": "ex027\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:34:53.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

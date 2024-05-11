@@ -1,0 +1,7 @@
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\bin\Debug\ex035.exe.config
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\bin\Debug\ex035.exe
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\bin\Debug\ex035.pdb
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\obj\Debug\ex035.csproj.AssemblyReference.cache
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\obj\Debug\ex035.csproj.CoreCompileInputs.cache
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\obj\Debug\ex035.exe
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\exercicios\algoritmos_cursoemvideo\ex035\ex035\obj\Debug\ex035.pdb

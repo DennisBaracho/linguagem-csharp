@@ -5,3 +5,10 @@ C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\enum\enum\obj\D
 C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
 C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\enum\enum\obj\Debug\@enum.exe
 C:\Users\DENISE BARACHO\Documents\GitHub\linguagem-csharp\teoria\enum\enum\obj\Debug\@enum.pdb
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\bin\Debug\@enum.exe
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\bin\Debug\@enum.pdb
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\obj\Debug\@enum.exe
+C:\Users\DENNIS\Documents\GitHub\linguagem-csharp\teoria\logica_de_programacao\enum\enum\obj\Debug\@enum.pdb
